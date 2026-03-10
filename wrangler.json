@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "igg-email-d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "96bd4bec-0801-437c-9af7-d4c5d7222ce5",
+			"database_name": "igg-email-d1-template-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
